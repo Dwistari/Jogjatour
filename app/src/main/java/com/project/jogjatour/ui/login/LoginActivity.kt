@@ -76,7 +76,7 @@ class LoginActivity : AppCompatActivity() {
 
                     } else {
                         Toast.makeText(
-                            this@LoginActivity, "Authentication failed.",
+                            this@LoginActivity, "Email/Password salah.",
                             Toast.LENGTH_SHORT
                         ).show()
                     }

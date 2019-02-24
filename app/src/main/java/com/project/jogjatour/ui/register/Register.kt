@@ -80,7 +80,7 @@ class Register : AppCompatActivity() {
 
                         } else {
                             Toast.makeText(
-                                this@Register, "Authentication failed.", Toast.LENGTH_SHORT
+                                this@Register, "Registrasi gagal, masukan data dengan benar.", Toast.LENGTH_SHORT
                             ).show()
 
 
