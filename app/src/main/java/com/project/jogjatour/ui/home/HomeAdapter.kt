@@ -34,6 +34,7 @@ class HomeAdapter : RecyclerView.Adapter<HomeAdapter.HomeViewHolder>() {
         holder.itemView.setOnClickListener {
             val intent = Intent(holder.itemView.context, DetailActivity::class.java)
             intent.putExtra("wisata", wisata[position])
+            intent.putExtra("wisata_name", wisata[position].namaPariwisata)
             intent.putExtra("position", position)
 
             holder.itemView.context.startActivity(intent)

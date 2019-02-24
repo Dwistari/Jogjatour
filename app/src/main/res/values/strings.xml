@@ -15,9 +15,9 @@
     </string>
     <string name="hint_password">Masukan Pasword</string>
     <string name="hint_email">Masukan email</string>
-    <string name="btn_login">Login</string>
-    <string name="btn_forgot_password">Forgot pasword</string>
-    <string name="btn_link_to_register">Register</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_forgot_password">FORGOT PASSWORD</string>
+    <string name="btn_link_to_register">REGISTER</string>
 
     <string name="email">Email</string>
     <string name="password">Password</string>
@@ -27,10 +27,11 @@
     <string name="create_act">Create Account</string>
     <string name="input_email">Email</string>
     <string name="input_password">Password</string>
-    <string name="resetEmail">Send Password Reset Email</string>
+    <string name="resetEmail">Send Email Reset Password</string>
     <string name="destination_name">Destination Name</string>
     <string name="alamat">Alamat :</string>
     <string name="address">Address</string>
     <string name="detail">detail</string>
     <string name="lihat_lokasi">Lihat Lokasi</string>
+    <string name="daftar">DAFTAR</string>
 </resources>

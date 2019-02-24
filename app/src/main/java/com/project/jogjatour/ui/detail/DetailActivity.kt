@@ -52,12 +52,12 @@ class DetailActivity : AppCompatActivity(), DetailView {
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
         initPresenter()
         wisata = intent.getSerializableExtra("wisata") as Destination
-//        destination_name = intent.getStringExtra("wisata_name")
+        destination_name = intent.getStringExtra("wisata_name")
         position = intent.getIntExtra("position", 0)
 
         showData(wisata)
 
-//        supportActionBar?.title = destination_name
+        supportActionBar?.title = destination_name
         btn_lokasi.setOnClickListener {
             val intent = Intent(
                 android.content.Intent.ACTION_VIEW,
