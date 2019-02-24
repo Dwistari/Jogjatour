@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1086937938539",
+    "firebase_url": "https://jogjatour-773a5.firebaseio.com",
+    "project_id": "jogjatour-773a5",
+    "storage_bucket": "jogjatour-773a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086937938539:android:40431ec737bbf4cc",
+        "android_client_info": {
+          "package_name": "com.project.jogjatour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086937938539-lvpmlrrdbquu712u3j2ruqktohalqqg9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.jogjatour",
+            "certificate_hash": "f699f80e14dc43ba5b23c5272b36411896709de6"
+          }
+        },
+        {
+          "client_id": "1086937938539-k2omnu9aekrmn102bl5armqk1ddvv243.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmB8Ar4WhelE36GMb7ENvjW5uPdru_lkI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086937938539-k2omnu9aekrmn102bl5armqk1ddvv243.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
