@@ -81,7 +81,7 @@
                 android:layout_height="wrap_content"
                 android:orientation="horizontal">
 
-            <TextView
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
                     android:id="@+id/detail"
                     android:fontFamily="tahoma"
                     android:text="@string/detail"
